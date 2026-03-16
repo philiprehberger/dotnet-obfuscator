@@ -113,6 +113,12 @@ var obj = JsonSerializer.Deserialize<MyDto>(json, jsonOptions);
 | `Alphabet` | Custom alphabet characters (default: a-z, A-Z, 0-9) |
 | `MinLength` | Minimum encoded string length (default: 0) |
 
+## Development
+
+```bash
+dotnet build src/Philiprehberger.Obfuscator.csproj --configuration Release
+```
+
 ## License
 
 MIT
