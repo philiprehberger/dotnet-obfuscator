@@ -1,5 +1,9 @@
 # Philiprehberger.Obfuscator
 
+[![CI](https://github.com/philiprehberger/dotnet-obfuscator/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-obfuscator/actions/workflows/ci.yml)
+[![NuGet](https://img.shields.io/nuget/v/Philiprehberger.Obfuscator.svg)](https://www.nuget.org/packages/Philiprehberger.Obfuscator)
+[![License](https://img.shields.io/github/license/philiprehberger/dotnet-obfuscator)](LICENSE)
+
 Reversible integer/long ID obfuscation for URL-safe, non-sequential public IDs.
 
 ## Install
