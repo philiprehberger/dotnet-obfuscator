@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>Philiprehberger.Obfuscator</PackageId>
-    <Version>0.1.3</Version>
+    <Version>0.1.4</Version>
     <Authors>Philip Rehberger</Authors>
     <Description>Reversible integer/long ID obfuscation for URL-safe, non-sequential public IDs</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>

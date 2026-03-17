@@ -6,7 +6,7 @@
 
 Reversible integer/long ID obfuscation for URL-safe, non-sequential public IDs.
 
-## Install
+## Installation
 
 ```bash
 dotnet add package Philiprehberger.Obfuscator
