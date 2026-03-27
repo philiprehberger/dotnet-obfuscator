@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.1.7 (2026-03-26)
+
+- Add Sponsor badge to README
+- Fix License section format
+- Add trailing period to description
+
 ## 0.1.6 (2026-03-23)
 
 - Sync .csproj description with README

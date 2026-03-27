@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/dotnet-obfuscator/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-obfuscator/actions/workflows/ci.yml)
 [![NuGet](https://img.shields.io/nuget/v/Philiprehberger.Obfuscator.svg)](https://www.nuget.org/packages/Philiprehberger.Obfuscator)
 [![License](https://img.shields.io/github/license/philiprehberger/dotnet-obfuscator)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Reversible integer/long ID obfuscation for URL-safe, non-sequential public IDs.
 
@@ -121,4 +122,4 @@ dotnet build src/Philiprehberger.Obfuscator.csproj --configuration Release
 
 ## License
 
-MIT
+[MIT](LICENSE)
