@@ -2,8 +2,7 @@
 
 [![CI](https://github.com/philiprehberger/dotnet-obfuscator/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-obfuscator/actions/workflows/ci.yml)
 [![NuGet](https://img.shields.io/nuget/v/Philiprehberger.Obfuscator.svg)](https://www.nuget.org/packages/Philiprehberger.Obfuscator)
-[![License](https://img.shields.io/github/license/philiprehberger/dotnet-obfuscator)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/dotnet-obfuscator)](https://github.com/philiprehberger/dotnet-obfuscator/commits/main)
 
 Reversible integer/long ID obfuscation for URL-safe, non-sequential public IDs.
 
@@ -119,6 +118,24 @@ var obj = JsonSerializer.Deserialize<MyDto>(json, jsonOptions);
 ```bash
 dotnet build src/Philiprehberger.Obfuscator.csproj --configuration Release
 ```
+
+## Support
+
+If you find this project useful:
+
+⭐ [Star the repo](https://github.com/philiprehberger/dotnet-obfuscator)
+
+🐛 [Report issues](https://github.com/philiprehberger/dotnet-obfuscator/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+💡 [Suggest features](https://github.com/philiprehberger/dotnet-obfuscator/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+
+❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
+
+🌐 [All Open Source Projects](https://philiprehberger.com/open-source-packages)
+
+💻 [GitHub Profile](https://github.com/philiprehberger)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/philiprehberger)
 
 ## License
 
